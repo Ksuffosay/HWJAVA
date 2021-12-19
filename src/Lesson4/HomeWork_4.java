@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.Random;
 import java.util.Scanner;
 
-public class HomeWork4 {
+public class HomeWork_4 {
     public static Random random = new Random();
     public static Scanner scanner = new Scanner(System.in);
 
